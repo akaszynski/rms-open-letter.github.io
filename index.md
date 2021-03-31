@@ -193,6 +193,7 @@ Free Software Contributor)
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Jeffers
+1. Alexander Kaszynski (PyVista contributor)
 1. Alexander Koderman
 1. Alexander `lynxis` Couzens (OpenWrt, osmocom)
 1. Alexander Mikhaylenko (GNOME)
